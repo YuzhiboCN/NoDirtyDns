@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fd04fec-b638-4f40-a660-3ea5f9d27420" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/Workerman/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iwobNQGrbAXjSSYp9x2dvegvi3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Web\Web\Web\NoDirtyDns\Workerman" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web\Web\Web\NoDirtyDns" />
+      <recent name="D:\Web\Web\Web\NoDirtyDns\Workerman" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.NoDirtyDns">
+    <configuration name="NoDirtyDns Workerman" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/StartW.php" scriptParameters="-l 0.0.0.0 -f 47.56.128.214 --lp 53">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="NoDirtyDns" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/Start.php" scriptParameters="-f 47.56.128.214 --debug">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.NoDirtyDns" />
+      <item itemvalue="PHP Script.NoDirtyDns Workerman" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Yuzhibo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fd04fec-b638-4f40-a660-3ea5f9d27420" name="Default Changelist" comment="" />
+      <created>1602828085487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602828085487</updated>
+      <workItem from="1602828086522" duration="24560000" />
+      <workItem from="1603182330679" duration="722000" />
+      <workItem from="1603183185961" duration="16121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="113" key="#CLI_Interpreters" timestamp="1602828453714">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="300" y="113" key="#CLI_Interpreters/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602828453714" />
+    <state x="199" y="176" width="1092" height="860" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603420709695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="199" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603420709695" />
+    <state x="204" y="0" width="1092" height="860" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602859565837" />
+    <state x="707" y="183" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603361102915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="183" key="#com.intellij.ide.macro.MacrosDialog/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603361102915" />
+    <state x="530" y="151" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602840006919" />
+    <state x="667" y="247" key="FileChooserDialogImpl" timestamp="1603422428562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="247" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422428562" />
+    <state x="500" y="204" key="FileChooserDialogImpl/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602835506970" />
+    <state x="771" y="439" key="Github.CreateGistDialog" timestamp="1603422200126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="439" key="Github.CreateGistDialog/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422200126" />
+    <state width="1877" height="361" key="GridCell.Tab.0.bottom" timestamp="1603418518259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603418518259" />
+    <state width="1397" height="287" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602861336571" />
+    <state width="1877" height="361" key="GridCell.Tab.0.center" timestamp="1603418518259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603418518259" />
+    <state width="1397" height="287" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602861336571" />
+    <state width="1877" height="361" key="GridCell.Tab.0.left" timestamp="1603418518259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603418518259" />
+    <state width="1397" height="287" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602861336571" />
+    <state width="1877" height="361" key="GridCell.Tab.0.right" timestamp="1603418518259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603418518259" />
+    <state width="1397" height="287" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602861336571" />
+    <state x="536" y="353" key="NewPhpFileDialog" timestamp="1602834442876">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="536" y="353" key="NewPhpFileDialog/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602834442876" />
+    <state x="295" y="89" key="SettingsEditor" timestamp="1603422028862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="89" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422028862" />
+    <state x="221" y="74" key="SettingsEditor/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602830680862" />
+    <state x="295" y="89" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603386063743" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603422492318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422492318" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603422481566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422481566" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1602842973544">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1602842973544" />
+  </component>
+</project>

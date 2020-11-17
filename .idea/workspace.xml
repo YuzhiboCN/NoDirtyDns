@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd04fec-b638-4f40-a660-3ea5f9d27420" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Class/DnsParser.Class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/NoDirtyDnsSwoole.Class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeTable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StartSwoole.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DnsParser.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoDirtyDns.Class.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/NoDirtyDns.Class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Start.php" beforeDir="false" afterPath="$PROJECT_DIR$/Start.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +108,7 @@
       <workItem from="1605084014813" duration="2125000" />
       <workItem from="1605149093756" duration="1091000" />
       <workItem from="1605150344725" duration="12506000" />
-      <workItem from="1605163211203" duration="78171000" />
+      <workItem from="1605163211203" duration="78916000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1603422543865</created>
@@ -125,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603422543865</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add DnsParser and DnsCache.Add swoole model.">
+      <created>1605606613422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605606613422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="Add DnsParser and DnsCache.Add swoole model." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DnsParser and DnsCache.Add swoole model." />
   </component>
   <component name="WindowStateProjectService">
     <state x="300" y="113" key="#CLI_Interpreters" timestamp="1605149560987">
@@ -162,10 +162,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="470" y="305" width="570" height="483" key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605241569369" />
-    <state x="558" y="73" key="CommitChangelistDialog2" timestamp="1603422543221">
+    <state x="558" y="73" key="CommitChangelistDialog2" timestamp="1605606612275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="73" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422543221" />
+    <state x="558" y="73" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606612275" />
     <state x="667" y="247" key="FileChooserDialogImpl" timestamp="1603684875969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -175,31 +175,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="439" key="Github.CreateGistDialog/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422200126" />
-    <state width="1877" height="414" key="GridCell.Tab.0.bottom" timestamp="1605606073619">
+    <state width="1877" height="370" key="GridCell.Tab.0.bottom" timestamp="1605606468989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="414" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606073619" />
+    <state width="1877" height="370" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606468989" />
     <state width="1397" height="265" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1605196708725" />
     <state width="1877" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605501318150" />
     <state width="1877" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605530046067" />
-    <state width="1877" height="414" key="GridCell.Tab.0.center" timestamp="1605606073618">
+    <state width="1877" height="370" key="GridCell.Tab.0.center" timestamp="1605606468989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="414" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606073618" />
+    <state width="1877" height="370" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606468989" />
     <state width="1397" height="265" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1605196708723" />
     <state width="1877" height="292" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605501318150" />
     <state width="1877" height="308" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605530046067" />
-    <state width="1877" height="414" key="GridCell.Tab.0.left" timestamp="1605606073618">
+    <state width="1877" height="370" key="GridCell.Tab.0.left" timestamp="1605606468989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="414" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606073618" />
+    <state width="1877" height="370" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606468989" />
     <state width="1397" height="265" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1605196708722" />
     <state width="1877" height="292" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605501318150" />
     <state width="1877" height="308" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605530046067" />
-    <state width="1877" height="414" key="GridCell.Tab.0.right" timestamp="1605606073618">
+    <state width="1877" height="370" key="GridCell.Tab.0.right" timestamp="1605606468989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="414" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606073618" />
+    <state width="1877" height="370" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606468989" />
     <state width="1397" height="265" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1605196708724" />
     <state width="1877" height="292" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605501318150" />
     <state width="1877" height="308" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605530046067" />
@@ -252,10 +252,10 @@
     <state x="-1345" y="182" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605241585403" />
     <state x="221" y="74" key="SettingsEditor/0.0.1440.860/1440.0.1440.860@0.0.1440.860" timestamp="1605150189931" />
     <state x="295" y="89" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603386063743" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603422863857">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605606675064">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422863857" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606675064" />
     <state x="1440" y="0" width="1413" height="847" maximized="true" key="dock-window-1" timestamp="1605182900395">
       <screen x="1440" y="0" width="1440" height="860" />
     </state>
@@ -268,10 +268,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1769" y="-12" width="1645" height="841" maximized="true" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605498392693" />
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603422481566">
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605606753031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603422481566" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/-1920.0.1920.1040/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605606753031" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1605434334721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
